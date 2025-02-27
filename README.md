@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate beginner in the world of computer
 ## What I'm Currently Working On
 
 * I'm currently focused on building a strong foundation in programming concepts.
-* Learning the basics of Phthon, Java Script, C and C++ and SQL.
+* Learning the basics of Python, Java Script, C and C++ and SQL.
 * Working through online courses and tutorials to enhance my skills.
 
 ## Goals
