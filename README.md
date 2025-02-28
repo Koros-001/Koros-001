@@ -1,11 +1,11 @@
-# Hi there, I'm Daniel Koros 👋 (001-spec)
+# Hi there, I'm Daniel Koros 👋 (Koros-001)
 
 Welcome to my GitHub profile! I'm a passionate beginner in the world of computer programming, eager to learn and grow.
 
 ## About Me
 
 * **Name:** Daniel Koros
-* **GitHub:** [001-spec](https://github.com/001-spec)
+* **GitHub:** [Koros-001](https://github.com/Koros-001)
 * **Status:** Learning and exploring the fascinating world of programming.
 * **Interests:**
     * Currently diving into the fundamentals of computer programming.
