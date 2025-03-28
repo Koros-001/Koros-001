@@ -17,6 +17,8 @@ Welcome to my GitHub profile! I'm a passionate beginner in the world of computer
 * I'm currently focused on building a strong foundation in programming concepts.
 * Learning the basics of Python, Java Script, C and C++ and SQL.
 * Working through online courses and tutorials to enhance my skills.
+* This project involves recreating a provided timetable layout using HTML and CSS.The goal is to demonstrate understanding of layout techniques and styling![Koros_Daniel Zip](https://github.com/user-attachments/assets/cf6e74d3-239d-4fee-a7c8-008a45e50b5e)
+
 
 ## Goals
 
